@@ -12,4 +12,9 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//
+//= require jquery
+//= require iquery_ujs
+// ref. https://github.com/rails/jquery-rails#installation
+//
 //= require_tree .
